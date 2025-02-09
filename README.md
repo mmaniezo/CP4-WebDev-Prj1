@@ -4,6 +4,6 @@
 
 🛠️ Ferramentas utilizadas: HTML, CSS, Bootstrap e JavaScript, sempre visando uma melhor mecânica e experiência de usuário. Agradeço especialmente ao professor Lucas Silva pelo suporte e orientações nessa jornada de Web Development! 🙌
 
-🔗 Link do Rafael Gaming Store:
+🔗 Link do Rafael Gaming Store: https://mmaniezo.github.io/CP4-WebDev-Prj1/
 
 Let’s rock the future! 🎸
